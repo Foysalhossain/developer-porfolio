@@ -54,10 +54,17 @@ p {
     background-position: right;
 }
 
+.experiecne-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .experience-unit {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
-    box-shadow: 10px 10px 5px 5px rgba(18, 18, 18, 0.331);
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
 }
