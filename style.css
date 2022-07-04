@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: auto;
 }
 
 h1 {
@@ -39,4 +40,9 @@ section {
     border-radius: 5px;
     color: #fff;
     font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
