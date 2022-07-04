@@ -58,6 +58,7 @@ p {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    height: 500px;
 }
 
 .experience-unit {
